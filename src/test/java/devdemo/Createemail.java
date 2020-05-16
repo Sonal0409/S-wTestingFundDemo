@@ -7,6 +7,8 @@ public class Createemail {
 
 		
 		System.out.println("Create an email code");
+		System.out.println("Reply an email code");
+		System.out.println("Forward an email code");
 	}
 
 }
