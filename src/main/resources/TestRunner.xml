@@ -5,7 +5,7 @@
     <classes>
        <class name="devdemo.Createemail" />
        <class name="devdemo.DeleteEmail" />
-      
+      <class name="devdemo.Login" />
     </classes>
   </test>
  
