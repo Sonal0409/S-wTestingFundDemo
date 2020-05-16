@@ -1,8 +1,11 @@
 package devdemo;
 
+import org.testng.annotations.Test;
+
 public class DeleteEmail {
 
-	public static void main(String[] args) {
+	@Test
+	public static void delete() {
 		// TODO Auto-generated method stub
 
 		
