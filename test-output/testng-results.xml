@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="86" started-at="2020-05-16T17:07:54Z" finished-at="2020-05-16T17:07:54Z">
+  <suite name="Suite1" duration-ms="11768" started-at="2020-05-16T17:40:20Z" finished-at="2020-05-16T17:40:32Z">
     <groups>
     </groups>
-    <test name="Testngtest" duration-ms="86" started-at="2020-05-16T17:07:54Z" finished-at="2020-05-16T17:07:54Z">
+    <test name="Testngtest" duration-ms="11768" started-at="2020-05-16T17:40:20Z" finished-at="2020-05-16T17:40:32Z">
       <class name="devdemo.DeleteEmail">
-        <test-method status="PASS" signature="delete()[pri:0, instance:devdemo.DeleteEmail@67a738]" name="delete" duration-ms="2" started-at="2020-05-16T17:07:54Z" finished-at="2020-05-16T17:07:54Z">
+        <test-method status="PASS" signature="delete()[pri:0, instance:devdemo.DeleteEmail@5f1e4e]" name="delete" duration-ms="2" started-at="2020-05-16T17:40:20Z" finished-at="2020-05-16T17:40:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- delete -->
       </class> <!-- devdemo.DeleteEmail -->
       <class name="devdemo.Createemail">
-        <test-method status="PASS" signature="create()[pri:0, instance:devdemo.Createemail@1d5872c]" name="create" duration-ms="18" started-at="2020-05-16T17:07:54Z" finished-at="2020-05-16T17:07:54Z">
+        <test-method status="PASS" signature="create()[pri:0, instance:devdemo.Createemail@15710fc]" name="create" duration-ms="19" started-at="2020-05-16T17:40:20Z" finished-at="2020-05-16T17:40:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create -->
       </class> <!-- devdemo.Createemail -->
+      <class name="devdemo.Login">
+        <test-method status="PASS" signature="loginmethod()[pri:0, instance:devdemo.Login@1f9eccc]" name="loginmethod" duration-ms="11678" started-at="2020-05-16T17:40:20Z" finished-at="2020-05-16T17:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+      </class> <!-- devdemo.Login -->
     </test> <!-- Testngtest -->
   </suite> <!-- Suite1 -->
 </testng-results>
